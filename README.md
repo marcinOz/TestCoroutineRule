@@ -1,7 +1,8 @@
 [![](https://jitpack.io/v/marcinOz/TestCoroutineRule.svg)](https://jitpack.io/#marcinOz/TestCoroutineRule)
 
 # TestCoroutineRule
-TestCoroutineRule library to simplify testing of coroutines.
+TestCoroutineRule library to simplify testing of coroutines,
+based on idea from Google IO talks: https://youtu.be/BOHK_w09pVA?t=2018.
 
 <br />
 
