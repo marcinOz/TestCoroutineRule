@@ -35,6 +35,6 @@ Step 2. Add the dependency (in build.gradle under app)
 
 ```
 dependencies {
-  implementation 'com.github.marcinOz:TestCoroutineRule:1.0.1'
+  testImplementation 'com.github.marcinOz:TestCoroutineRule:1.0.1'
 }
 ```
