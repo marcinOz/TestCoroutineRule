@@ -3,8 +3,8 @@
 buildscript {
 
     ext.versions = [
-            kotlinVersion       : '1.3.41',
-            coroutinesVersion   : '1.3.0-M1',
+            kotlinVersion       : '1.7.10',
+            coroutinesVersion   : '1.6.1',
     ]
     repositories {
         google()
@@ -12,7 +12,7 @@ buildscript {
         
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.4.1'
+        classpath 'com.android.tools.build:gradle:7.2.2'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$versions.kotlinVersion"
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
